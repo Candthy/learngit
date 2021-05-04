@@ -1,0 +1,4 @@
+I have a pen.
+I have an apple.
+apple pen
+pen apple
